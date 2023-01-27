@@ -191,7 +191,7 @@ function filterByWord(array, string){
      }
    return filteredArray;
    }
- console.log('task 7', filterByWord (originalFlavors, 'Chocolate'));npm 
+ console.log('task 7', filterByWord (originalFlavors, 'Chocolate'));
 
 
 
